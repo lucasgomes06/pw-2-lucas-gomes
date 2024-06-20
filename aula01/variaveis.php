@@ -3,7 +3,8 @@
     $n1 = 2;
     $n2 = 3;
 
-    echo $texto, "<br>";
+    echo $texto;
+    echo "<br>";
     echo gettype($texto), "<br>";
-    echo gettype($n1), "<br>";
+    echo gettype($n1);
 ?>
