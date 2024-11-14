@@ -1,5 +1,5 @@
 <?php
-    $texto = "Isso é um texto";
+    $texto = "Isso é muito um texto";
     $n1 = 2;
     $n2 = 3;
 
